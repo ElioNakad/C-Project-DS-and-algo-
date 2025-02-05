@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(42,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(1000,33): warning C4101: 'e': unreferenced local variable
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(1103,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.cpp(1268,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\Administrator\source\repos\Project2\x64\Debug\Project2.exe
